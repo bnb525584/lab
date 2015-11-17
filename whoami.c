@@ -38,6 +38,7 @@ int main() {
 	printf("1023004\n");
 	printf("1022995\n");
 	printf("1023000\n");
-
+	printf("1023013\n");
+	
 	return 0;
 }
